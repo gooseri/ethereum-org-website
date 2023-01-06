@@ -188,7 +188,7 @@ const GridItem: React.FC<IGridItemProps> = ({ metric, dir }) => {
           )}
         </>
       )}
-      <Text
+      <Box
         position="absolute"
         bottom="8%"
         fontSize={{ base: "max(8.8vw, 48px)", lg: "min(4.4vw, 4rem)" }}
@@ -200,7 +200,7 @@ const GridItem: React.FC<IGridItemProps> = ({ metric, dir }) => {
         textOverflow="ellipsis"
       >
         {value}
-      </Text>
+      </Box>
     </Flex>
   )
 }
