@@ -137,7 +137,7 @@ By screenshotting your seed phrases or private keys, you risk syncing them to th
 
 ### Use a hardware wallet {#use-hardware-wallet}
 
-A hardware wallet provides offline storage for private keys. They are considered the most secure wallet option for storing your private keys.
+A hardware wallet provides offline storage for private keys. They are considered the most secure wallet option for storing your private keys, because no trace of your private key touches the internet and stays completely local on your device.
 
 Keeping private keys offline massively reduces the risk of being hacked, even if a hacker gets control of your computer.
 
@@ -245,10 +245,10 @@ These fraudulent brokers find their targets by using fake accounts on YouTube to
 
 ### Crypto mining pool scams {#mining-pool-scams}
 
-As of September 2022, mining on Ethereum is no longer possible. However, mining pool scams still exist. Mining pool scams involve people contacting you unsolicited and claiming that you can make large returns by joining an Ethereum mining pool. The scammer will make claims and stay in contact with you for however long it takes. Essentially, the scammer will try and convince you that when you join an Ethereum mining pool, your cryptocurrency will be used to create ETH and that you will be paid dividends in the form of ETH. What will end up happening is, you will notice that your cryptocurrency is making small returns. This is simply to bait you into investing more. Eventually, all of your funds will be sent to an unknown address, and the scammer will either disappear or in some cases will continue to stay in touch as has happened in a recent case.
+As of September 2022, mining on Ethereum is no longer possible. However, mining pool scams still exist. Mining pool scams involve people contacting you unsolicited and claiming that you can make large returns by joining an Ethereum mining pool. The scammer will make claims and stay in contact with you for however long it takes to gain your trust. 
+The scammer will try and convince you that when you join an Ethereum 'mining pool', your cryptocurrency will be used to create ETH and that you will be paid dividends in the form of ETH. There are legitimate forms of this, such as RocketPool's rETH (which receives staking rewards paid from it's smart contract), but they are no longer called 'mining pools' and such pools will not be offered to anyone through DM's/emails/Twitter posts. As the scammer gains the victims trust, they ask to send all funds to the scammers address, pretending that it is the 'pool' address. Eventually, all of your funds will be sent to an unknown address, and the scammer will either disappear or in some cases continue to stay in touch, to possibly siphon more funds in the future or gain referrals from the victim.
 
-Bottom line, be wary of people who contact you on social media asking for you to be part of a mining pool. Once you lose your crypto, it is gone.
-
+**Be wary of people who contact you through social media promoting any project or idea in crypto**
 Some things to remember:
 
 - Be wary of anyone contacting you about ways to make money off of your crypto
@@ -259,7 +259,7 @@ Some things to remember:
 
 ### Airdrop scams {#airdrop-scams}
 
-Airdrop scams involve a scam project airdropping an asset (NFT, token) into your wallet and sending you to a scam website to claim the airdropped asset. You will get prompted to sign in with your Ethereum wallet and "approve" a transaction when attempting to claim. This transaction compromises your account by sending your public and private keys to the scammer. An alternative form of this scam may have you confirm a transaction that sends funds to the scammer's account.
+Airdrop scams involve a scam project airdropping an asset (NFT, token) into your wallet and sending you to a scam website to claim the airdropped asset. You will get prompted to sign in with your Ethereum wallet and "approve" a transaction when attempting to claim. This transaction compromises your account by sending your public and private keys to the scammer. An alternative form of this scam may have you confirm a transaction that sends funds to the scammer's account, or a website asking you to approve your ERC-20 tokens for a malicious contract, leading to your ERC-20 tokens being drained.
 
 [More on airdrop scams](https://www.youtube.com/watch?v=LLL_nQp1lGk)
 
